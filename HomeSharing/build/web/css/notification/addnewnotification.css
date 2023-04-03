@@ -1,0 +1,42 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #a6f7cd;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+label {
+    color: #333;
+}
+
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    margin-bottom: 20px;
+}
+
+.help-block.with-errors {
+    color: #ff5050;
+    margin-top: 5px;
+}
+.logo {
+    font-family: "Script MT";
+    font-size: 54px;
+    text-align: center;
+    color: #888888;
+    margin-bottom: 50px;
+}
+
+.logo .logo-font {
+    color: #3BC3FF;
+}
+
+@media only screen and (max-width: 767px) {
+    .logo {
+        font-size: 34px;
+    }
+}
+

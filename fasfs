@@ -1,0 +1,24 @@
+[1mdiff --cc HomeSharing/nbproject/private/private.xml[m
+[1mindex 608d96a,d002bc2..0000000[m
+[1m--- a/HomeSharing/nbproject/private/private.xml[m
+[1m+++ b/HomeSharing/nbproject/private/private.xml[m
+[36m@@@ -3,11 -3,9 +3,17 @@@[m
+      <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>[m
+      <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">[m
+          <group>[m
+[32m++<<<<<<< HEAD[m
+[32m +            <file>file:/E:/Semester_5_Sp23/SWP391/Project/swp391_2023_spring_se1645_group5/HomeSharing/web/css/auth/register.css</file>[m
+[32m +            <file>file:/E:/Semester_5_Sp23/SWP391/Project/swp391_2023_spring_se1645_group5/HomeSharing/web/view/folder/newjsp.jsp</file>[m
+[32m +            <file>file:/E:/Semester_5_Sp23/SWP391/Project/swp391_2023_spring_se1645_group5/HomeSharing/web/view/auth/forgetpassword.jsp</file>[m
+[32m +            <file>file:/E:/Semester_5_Sp23/SWP391/Project/swp391_2023_spring_se1645_group5/HomeSharing/web/view/auth/login.jsp</file>[m
+[32m +            <file>file:/E:/Semester_5_Sp23/SWP391/Project/swp391_2023_spring_se1645_group5/HomeSharing/web/view/auth/register.jsp</file>[m
+[32m++=======[m
+[32m+             <file>file:/D:/ProjectSWP391/swp391_2023_spring_se1645_group5/HomeSharing/src/java/dal/AccountInformationDBContext.java</file>[m
+[32m+             <file>file:/D:/ProjectSWP391/swp391_2023_spring_se1645_group5/HomeSharing/src/java/controller/profile/ViewProfileController.java</file>[m
+[32m+             <file>file:/D:/ProjectSWP391/swp391_2023_spring_se1645_group5/HomeSharing/src/java/dal/DBContext.java</file>[m
+[32m++>>>>>>> e248230150305aba6eadbb68679c2be5fac784c1[m
+          </group>[m
+      </open-files>[m
+  </project-private>[m
+* Unmerged path HomeSharing/build/web/view/Blog.jsp
+* Unmerged path HomeSharing/web/view/Blog.jsp
